@@ -5,5 +5,5 @@ func add(int a,int b)
 
 func double(var a)
 {
-  return a*3;
+  return a*2;
 }
